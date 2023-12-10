@@ -8,7 +8,7 @@ I wrote this software because I wanted to develop my skills in C++ as much as I 
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](https://youtu.be/nIPYBRt2e6k)
+[Software Demo Video](https://youtu.be/8ypbBJMlGlc)
 
 # Development Environment
 
